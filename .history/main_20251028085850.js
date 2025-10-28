@@ -1,1 +1,0 @@
-const loanAmount = document.getElementById("loan");
